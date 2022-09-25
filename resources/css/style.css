@@ -1,6 +1,7 @@
 * {
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -14,7 +15,6 @@ h1 {
 }
 .mini--header {
     color: grey;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
 }
 a {
