@@ -21,3 +21,8 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
+.footer--lower {
+    color:grey;
+    font-size:8px;
+    text-align: right;
+}
